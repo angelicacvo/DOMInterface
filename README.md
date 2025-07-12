@@ -21,13 +21,26 @@ This project is a simple web interface built with HTML, CSS, JavaScript and Boot
 
 ## File Structure
 
+
 project-root/
 │
+
+
 ├── index.html
+
+
 ├── src/
+
+
 │ ├── js/
+
+
 │ │ └── index.js # JavaScript logic (form handling, validation, storage)
+
+
 │ └── styles/
+
+
 │ └── styles.css # Optional styles (empty or user-defined)
 
 ## How It Works
