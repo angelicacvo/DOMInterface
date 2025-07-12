@@ -1,0 +1,15 @@
+body{
+    background-color: #76c893;
+}
+main {
+    margin: 10rem;
+    padding: 2rem;
+    background-color: #34a0a4;
+    border-radius: 10px;
+    box-shadow: 12px;
+    text-align: center;
+}
+
+button{
+    margin-top: 1rem;
+}
